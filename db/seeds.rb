@@ -14,32 +14,32 @@ restaurants_attributes = [
   {
     name:         'Dishoom',
     address:      '7 Boundary St, London E2 7JE',
-    phone_number: 2572 7285,
-    category:     'Indian'
+    phone_number: '2572 7285',
+    category:     'chinese'
   },
   {
     name:         'Pizza East',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    phone_number: 2609 8522,
-    category:     'Pizza'
+    phone_number: '2609 8522',
+    category:     'italian'
   },
   {
     name:         'Ferro & Farinha',
     address:      '7 Boundary St, London E2 7JE',
-    phone_number: 2572 7285,
-    category:     'Pizza'
+    phone_number: '2572 7285',
+    category:     'italian'
   },
   {
     name:         'Miam Miam',
     address:      'Botafogo, Rio de Janeiro E1 6PQ',
-    phone_number: 2609 8522,
-    category:     'Contemporary'
+    phone_number: '2609 8522',
+    category:     'japanese'
   },
   {
     name:         'Hachiko',
     address:      'Centro, Rio de Janeiro E1 6PQ',
-    phone_number: 2609 8522,
-    category:     'Japanese'
+    phone_number: '2609 8522',
+    category:     'japanese'
   },
 
 ]
